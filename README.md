@@ -20,8 +20,8 @@ Proyek ini terdiri dari beberapa tabel utama:
 7. transaksi & detailBarang: Mencatat histori penjualan dan rincian item.
 
 🚀 Langkah Instalasi & Setup Database
-install dan buka xampp jalankan (start) Apache dan MySQL
-install dan buka MySQL setelah itu setup new connetion dan buat data base 
+1. install dan buka xampp jalankan (start) Apache dan MySQL
+2. install dan buka MySQL setelah itu setup new connetion dan buat data base 
 
 💻 Cara Menjalankan Program
 Bagian 1 (Dasar): Cukup `SELECT` untuk memunculkan atau melihat isi didalam tabel
