@@ -24,7 +24,7 @@ Proyek ini terdiri dari beberapa tabel utama:
 2. install dan buka MySQL setelah itu setup new connetion dan buat data base 
 
 💻 Cara Menjalankan Program
-Bagian 1 (Dasar): Cukup `SELECT` untuk memunculkan atau melihat isi didalam tabel
-Bagian 2 (Pencarian): Menggunakan `LIKE` untuk mencari barang di tabel
-Bagian 3 (Filter): Menggunakan `BETWEEN` untuk Menampilkan barang yang memiliki stok kritis antara 2 sampai 10 unit
-Bagian 4 & 5 (Join): Saya pilih `Inner Join` (paling sering dipakai) dan `Left Join` (untuk melihat barang yang mungkin belum punya vendor).
+1. (Dasar): Cukup `SELECT` untuk memunculkan atau melihat isi didalam tabel
+2. (Pencarian): Menggunakan `LIKE` untuk mencari barang di tabel
+3. (Filter): Menggunakan `BETWEEN` untuk Menampilkan barang yang memiliki stok kritis antara 2 sampai 10 unit
+4. 4 & 5 (Join): Saya pilih `Inner Join` (paling sering dipakai) dan `Left Join` (untuk melihat barang yang mungkin belum punya vendor).
