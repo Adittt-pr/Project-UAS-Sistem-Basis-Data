@@ -1,8 +1,8 @@
 # Project-Akhir-Sistem-Basis-Data
 👥 Anggota Kelompok
-1. Aditya
-2. Adnan
-3. Hasan
+1. Muhammad Nur Hasan Majid
+2. Adnan Muhammad Fihr
+3. Aditya Firmansyah
 
 🛠️ Tools yang Digunakan
 1. MySQL: Sebagai Sistem Manajemen Database (DBMS).
@@ -27,4 +27,4 @@ Proyek ini terdiri dari beberapa tabel utama:
 1. (Dasar): Cukup `SELECT` untuk memunculkan atau melihat isi didalam tabel
 2. (Pencarian): Menggunakan `LIKE` untuk mencari barang di tabel
 3. (Filter): Menggunakan `BETWEEN` untuk Menampilkan barang yang memiliki stok kritis antara 2 sampai 10 unit
-4. 4 & 5 (Join): Saya pilih `Inner Join` (paling sering dipakai) dan `Left Join` (untuk melihat barang yang mungkin belum punya vendor).
+4. 4 & 5 (Join): Kami pilih `Inner Join` (paling sering dipakai) dan `Left Join` (untuk melihat barang yang mungkin belum punya vendor).
